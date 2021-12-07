@@ -1,3 +1,5 @@
+** important update: If your display doesn't respond well to the microphone input, you can adjust resistor R10,( The lower the value, the better the amplification) infact,you can remove it and replace it by a wire or some soldering tin. I did it on my prototype and result is amazing
+
 # FFT_ESP32_Analyzer
 Spectrum analyzer 8-64channels FFT
 
