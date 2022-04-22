@@ -1,5 +1,7 @@
 ** important update: If your display doesn't respond well to the microphone input, you can adjust resistor R10,( The lower the value, the better the amplification) infact,you can remove it and replace it by a wire or some soldering tin. I did it on my prototype and result is amazing
 
+Also: There are issues with the I2S_DMA_Matric library in version 2.07 ( and maybe above but have not tested) if you experiencing issues with reboot and I@S DMA ERROR.. change this library to version 2.05 (sure to work)
+
 # FFT_ESP32_Analyzer
 Spectrum analyzer 8-64channels FFT
 
